@@ -1,5 +1,7 @@
 # CPU
 
+[程序员需要了解的硬核知识之CPU](https://mp.weixin.qq.com/s?__biz=MzU2NDg0OTgyMA==&mid=2247484585&idx=1&sn=0d6c3ccf8cc5bec2fea80eb437213801&chksm=fc45f95acb32704c7dcc952a803e88e8a9b0e67c86d8c27abf4e6c776e48b1fcd770dd2dcc8d&token=653889808&lang=zh_CN&scene=21#wechat_redirect)
+
 CPU 主要由两部分构成：`控制单元` 和 `算术逻辑单元（ALU）`
 
 - 控制单元：从内存中提取指令并解码执行
