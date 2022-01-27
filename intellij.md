@@ -4,8 +4,6 @@
 
 https://cdk8s.gitbook.io/github/introduce
 
-
-
 + 安装后生成的目录说明、VM 设置（新用户必看）
 
 + UI 主题、字体、编辑区主题、文件编码修改、乱码问题（新用户必看）
