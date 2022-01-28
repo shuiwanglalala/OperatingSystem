@@ -7,6 +7,10 @@ https://cdk8s.gitbook.io/github/introduce
 + 安装后生成的目录说明、VM 设置（新用户必看）
 
 + UI 主题、字体、编辑区主题、文件编码修改、乱码问题（新用户必看）
+  
+  + [Android Studio Build窗口出现中文乱码问题解决_Bearin的博客-CSDN博客_android build 中文乱码](https://blog.csdn.net/Bearin/article/details/105224840)
+  
+  + [Android Studio －修改LogCat的颜色＊美爆了＊_ZeroFlutter-CSDN博客_logcat 颜色](https://blog.csdn.net/yy1300326388/article/details/45825123)
 
 + Hello World 的 Java 项目创建和项目配置文件
   
@@ -71,5 +75,3 @@ https://cdk8s.gitbook.io/github/introduce
   + 给调用的方法生成返回值，根据返回值自动强转
   
   + 对光标所在的对象进行包导入
-  
-  + 
